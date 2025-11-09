@@ -14,17 +14,6 @@ This repo is a collection of:
 
 ---
 
-## 🧩 What I’ve Learned So Far
-
-✅ **Python for Data Science**  
-✅ **Machine Learning basics (Scikit-learn, NumPy, Pandas)**  
-✅ **Deep Learning fundamentals (Neural Networks, TensorFlow basics)**  
-✅ **Flask – for building and serving ML models as web apps**
-
-> I recently learned how to use **Flask** to build simple ML APIs and deploy trained models — turning ideas into real, working applications.
-
----
-
 ## 🧠 Next Steps
 
 📍 Continue exploring:
