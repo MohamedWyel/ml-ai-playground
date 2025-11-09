@@ -6,3 +6,5 @@ seaborn
 flask
 streamlit
 scikit-learn
+imblearn
+openpyxl
